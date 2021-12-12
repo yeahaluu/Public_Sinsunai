@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15055950640",
+    "project_id": "sinsunai-8bbeb",
+    "storage_bucket": "sinsunai-8bbeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15055950640:android:b6e5b5be97c589f3d42ef5",
+        "android_client_info": {
+          "package_name": "com.sinsunai.sinsunai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15055950640-p63cfcc5fua8g0q34nbmm3su1dmj9db3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDavtnuBW_TqYnoj4xmlnyQlH0PiNXAyio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15055950640-p63cfcc5fua8g0q34nbmm3su1dmj9db3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

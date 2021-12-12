@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "SinsunAi",
+    "slug": "SinsunAi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/logo_1000.png",
+    "splash": {
+      "image": "./src/assets/logo_with_word.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.sinsunai.sinsunai",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "googleServicesFile": "./google-services.json",
+      "useNextNotificationsApi": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "icon": "./local/assets/notification-icon.png",
+          "color": "#ffffff",
+          "sounds": [
+            "./local/assets/notification-sound.wav",
+            "./local/assets/notification-sound-other.wav"
+          ],
+          "mode": "production"
+        }
+      ]
+    ]
+  }
+}

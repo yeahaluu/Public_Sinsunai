@@ -1,0 +1,26 @@
+absl-py==0.15.0
+astor==0.8.1
+cached-property==1.5.2
+Cython==0.29.24
+darkflow @ file:///C:/Users/multicampus/sfy/free-project/source/data/object-detection/darkflow
+dataclasses==0.8
+gast==0.5.2
+google-pasta==0.2.0
+grpcio==1.41.1
+h5py==3.1.0
+importlib-metadata==4.8.1
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.2
+Markdown==3.3.4
+numpy==1.19.5
+opencv-python==4.5.4.58
+protobuf==3.19.1
+six==1.16.0
+tensorboard==1.14.0
+tensorflow==1.14.0
+tensorflow-estimator==1.14.0
+termcolor==1.1.0
+typing-extensions==3.10.0.2
+Werkzeug==2.0.2
+wrapt==1.13.2
+zipp==3.6.0
